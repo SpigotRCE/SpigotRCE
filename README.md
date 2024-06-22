@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SpigotRCE
 - 👀 I’m interested in coding, cyber security, gaming
 - 🌱 I’m currently learning coding and cyber security
-- 💞️ I’m looking to collaborate on Minecraft Network
 - 📫 How to reach me? Contact me on discord SpigotRCE#0000
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am only 15 and in High School
