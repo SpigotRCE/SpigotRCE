@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding and cyber security
 - 📫 How to reach me? Contact me on discord SpigotRCE#0000
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am only 15 and in High School
+- ⚡ Fun fact: I am only 16 and in High School
 
 <!---
 SpigotRCE/SpigotRCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
