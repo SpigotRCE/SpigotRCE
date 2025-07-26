@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **spigotrce@gmail.com**
 
-- ⚡ Fun fact **I am shy**
+- ⚡ Fun fact **I am shy & I HATE P2W**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
