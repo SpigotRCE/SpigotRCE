@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SpigotRCE</h1>
+<h1 align="center">Hi 👋, I'm SpigotRCE aka Pranav</h1>
 <h3 align="center">A passionate Minecraft developer & exploit finder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spigotrce&label=Profile%20views&color=0e75b6&style=flat" alt="spigotrce" /> </p>
